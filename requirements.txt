@@ -1,0 +1,18 @@
+# Triple-Win Pricing System - Python Dependencies
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine learning
+scikit-learn>=0.24.0
+
+# Logging
+loguru>=0.5.0
+
+# Progress bar
+tqdm>=4.62.0
+
+# Visualization (optional, for plotting scripts)
+matplotlib>=3.4.0
+
